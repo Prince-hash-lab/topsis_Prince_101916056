@@ -11,7 +11,7 @@ setup(
     description="A small package to work with topsis",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/clement-bonnet/medium-first-package",
+    url="https://github.com/Prince-hash-lab/topsis_Prince_101916056",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
